@@ -1,3 +1,6 @@
+Medium Article 
+https://medium.com/@mohamedaraby1296/udacity-capstone-project-9d8cbc3da952
+
 # Capstone
 1. Scale achievement (100 points)
 	-Player Scale is relevant to environment 
